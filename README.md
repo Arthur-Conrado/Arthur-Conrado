@@ -1,7 +1,4 @@
-
 <div align="center">
-
-<!-- ARTHUR.EXE -->
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:071B2B,50:123B4A,100:00C9A7&text=ARTHUR.EXE&fontColor=E5FFF9&fontSize=55&fontAlignY=50&animation=fadeIn&stroke=00C9A7" width="100%"/>
 
@@ -9,7 +6,7 @@
 
 `JAVA` • `SPRING BOOT` • `REST APIs` • `DATABASES`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Initializing+Arthur.exe...;Loading+Java+Development+Environment...;Building+APIs+and+Backend+Systems...;Ready+to+build+something+great!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Initializing+Arthur.exe...;Loading+Java+Development+Environment...;Building+APIs+and+Back-End+Systems...;Ready+to+build+something+great!" />
 
 </div>
 
@@ -25,7 +22,7 @@
 ║  CARGO         : Desenvolvedor Back-End Júnior       ║
 ║  LINGUAGEM     : Java                                 ║
 ║  FRAMEWORK     : Spring Boot                          ║
-║  LOCALIZAÇÃO   : Brasília - DF                        ║
+║  LOCALIZAÇÃO   : Brasília - DF                       ║
 ║  STATUS        : Desenvolvendo projetos...            ║
 ╚══════════════════════════════════════════════════════╝
 ```
@@ -88,7 +85,7 @@ Atualmente, direciono minha carreira para o desenvolvimento Back-End, criando pr
 
 - Gerenciamento de animais e adoções.
 - Integração com banco de dados MySQL.
-- Organização de aplicação com Spring Boot.
+- Organização da aplicação com Spring Boot.
 - Ambiente de desenvolvimento com Docker Compose.
 
 `JAVA 21` `SPRING BOOT` `MYSQL` `DOCKER`
@@ -139,7 +136,7 @@ Atualmente, direciono minha carreira para o desenvolvimento Back-End, criando pr
                SENAI — 2025
 
 [ EXPERIENCE ] Experiência em TI e Infraestrutura
-                Embrapa — 2022 to 2024
+               Embrapa — 2022–2024
 ```
 
 ---
