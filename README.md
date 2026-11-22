@@ -65,7 +65,7 @@ Hoje aplico essa bagagem no desenvolvimento de **APIs seguras, escaláveis e bem
 ## 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arthur-conrado-rodrigues50497b236">
+  <a href="https://www.linkedin.com/in/arthur-conrado-rodrigues-50497b236">
     <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Conrado-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:arthur-conrado-rodrigues@hotmail.com">
