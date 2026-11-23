@@ -6,7 +6,7 @@
 
 `JAVA` • `SPRING BOOT` • `REST APIs` • `DATABASES`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Initializing+Arthur.exe...;Loading+Java+Development+Environment...;Building+APIs+and+Back-End+Systems...;Ready+to+build+something+great!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Initializing+Arthur.exe...;Loading+Java+Development+Environment...;Contruindo+APIs+e+Systems+Back-End...;Pronto+Para+desenvolver+algo+grande!" />
 
 </div>
 
@@ -126,7 +126,7 @@ Atualmente, direciono minha carreira para o desenvolvimento Back-End, criando pr
 
 ---
 
-## 🎓 EDUCATION
+## 🎓 FORMAÇÃO
 
 ```text
 [ COMPLETED ] Análise e Desenvolvimento de Sistemas
@@ -176,7 +176,6 @@ Atualmente, direciono minha carreira para o desenvolvimento Back-End, criando pr
 └───────────────────────────────────────────┘
 ```
 
-**Thanks for visiting my profile!**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071B2B,100:00C9A7&height=35&section=footer" width="100%"/>
 
